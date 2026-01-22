@@ -3186,7 +3186,7 @@ function DivSiteNavigationMenuListContainer() {
 
 function DivSiteNavigationMenuSlider() {
   return (
-    <div className="absolute content-stretch flex items-start left-[555.34px] right-[141.03px] top-1/2 translate-y-[-50%]" data-name="div.site-navigation__menu-slider">
+    <div className="absolute content-stretch flex items-start right-[141.03px] top-1/2 translate-y-[-50%]" data-name="div.site-navigation__menu-slider">
       <DivSiteNavigationMenuListContainer />
     </div>
   );
@@ -3205,7 +3205,7 @@ function Button3() {
 
 function DivDNone1() {
   return (
-    <div className="absolute content-stretch flex items-start left-[1298.97px] pt-[1.29px] right-[40px] top-1/2 translate-y-[-50%]" data-name="div.d-none">
+    <div className="absolute content-stretch flex items-start pt-[1.29px] right-[40px] top-1/2 translate-y-[-50%]" data-name="div.d-none">
       <Button3 />
     </div>
   );
